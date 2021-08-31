@@ -127,3 +127,16 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# pycharm .idea
+.idea
+
+# tfevents
+# events.out.tfevents*
+# **/events.out.tfevents*
+
+# MacOs generated files
+.DS_Store
+
+#NEM specific 
+*.zip
